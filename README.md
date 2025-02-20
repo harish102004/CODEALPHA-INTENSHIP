@@ -8,4 +8,4 @@ Thank you once again for this wonderful opportunity! I look forward to applying 
 
 
 TASK LINKS:
-  1. GALLERY IMAGE: https://gallery-world-by-hari.netlify.app/
+  1. GALLERY IMAGE WEBSITE: https://gallery-world-by-hari.netlify.app/
