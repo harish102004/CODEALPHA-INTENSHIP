@@ -9,3 +9,4 @@ Thank you once again for this wonderful opportunity! I look forward to applying 
 
 TASK LINKS:
   1. GALLERY IMAGE WEBSITE: https://gallery-world-by-hari.netlify.app/
+  2. MUSIC PLAYER WEBSITE:  https://music-player-hari.netlify.app/
